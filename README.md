@@ -1,4 +1,3 @@
-# Wireframe Accueil
 <header>
   <h1>Ma Boutique</h1>
   <nav>Menu de navigation</nav>
