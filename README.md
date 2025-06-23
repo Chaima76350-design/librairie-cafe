@@ -1,6 +1,25 @@
 # Wireframe Accueil
+<header>
+  <h1>Ma Boutique</h1>
+  <nav>Menu de navigation</nav>
+</header>
 
-A Pen created on CodePen.
+<main>
+  <aside class="sidebar">
+    <ul>
+      <li><a href="#">Accueil</a></li>
+      <li><a href="#">Boissons</a></li>
+      <li><a href="#">Horaires</a></li>
+    </ul>
+  </aside>
 
-Original URL: [https://codepen.io/Cha-ma-Berthe/pen/MYwwmqm](https://codepen.io/Cha-ma-Berthe/pen/MYwwmqm).
+  <section class="content">
+    <h2>Bienvenue</h2>
+    <p>Découvrez notre sélection de boissons artisanales.</p>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 - Contactez-nous | Mentions légales</p>
+</footer>
 
